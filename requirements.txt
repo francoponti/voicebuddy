@@ -5,4 +5,4 @@ numpy
 --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
 torch --index-url https://download.pytorch.org/whl/cpu
 soundfile
-chatterbox
+chatterbox-tts
