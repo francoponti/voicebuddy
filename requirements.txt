@@ -1,3 +1,4 @@
-  git config --global user.email "franco.ponti@gmail.com"
-
-
+Flask>=3.0.0
+pyttsx3>=2.90
+pytest>=8.0.0
+gunicorn
